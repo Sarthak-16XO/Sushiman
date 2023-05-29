@@ -3,8 +3,8 @@
 # Getting Started with Vite App
 This project was bootstrapped with [Create Vite App](https://github.com/vitejs/awesome-vite).
 
-## Devlopment Link
-(https://sushiii-man.netlify.app/)
+## Deployment Link
+https://sushiii-man.netlify.app/
 
 
 Screenshots
