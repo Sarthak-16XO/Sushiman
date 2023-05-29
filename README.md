@@ -4,7 +4,7 @@
 This project was bootstrapped with [Create Vite App](https://github.com/vitejs/awesome-vite).
 
 ## Devlopment Link
-[https://fitnesss-gym-website.netlify.app/](https://sushiii-man.netlify.app/)
+(https://sushiii-man.netlify.app/)
 
 
 Screenshots
